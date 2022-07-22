@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcUnaryService", "GrpcUnaryService.csproj", "{BC4E4D97-7470-418A-A645-79E86456B198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcUnaryClient", "..\GrpcUnaryClient\GrpcUnaryClient.csproj", "{E68B0F98-99D8-47F8-9DDE-7109FA7D47F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4E4D97-7470-418A-A645-79E86456B198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E4D97-7470-418A-A645-79E86456B198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E4D97-7470-418A-A645-79E86456B198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E4D97-7470-418A-A645-79E86456B198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68B0F98-99D8-47F8-9DDE-7109FA7D47F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68B0F98-99D8-47F8-9DDE-7109FA7D47F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68B0F98-99D8-47F8-9DDE-7109FA7D47F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68B0F98-99D8-47F8-9DDE-7109FA7D47F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5505421-C7B4-4783-AB7D-6E8018F74B41}
+	EndGlobalSection
+EndGlobal

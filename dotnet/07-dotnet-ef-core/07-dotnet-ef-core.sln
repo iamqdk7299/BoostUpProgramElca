@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-web-api-ef-core", "react-web-api-ef-core\react-web-api-ef-core.csproj", "{1BAFF656-FBD6-4200-9D08-25247F9CA72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAFF656-FBD6-4200-9D08-25247F9CA72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAFF656-FBD6-4200-9D08-25247F9CA72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAFF656-FBD6-4200-9D08-25247F9CA72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAFF656-FBD6-4200-9D08-25247F9CA72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6593134D-859E-4A2A-80D8-A06FC3404204}
+	EndGlobalSection
+EndGlobal

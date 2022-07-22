@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:WebApi.Controllers.UserController">
+            <summary>
+            The User controller
+            </summary>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Authenticate(WebApi.Models.AuthenticateRequest)">
+            <summary>
+            Authenticate
+            </summary>
+        </member>
+    </members>
+</doc>
